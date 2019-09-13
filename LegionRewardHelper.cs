@@ -1,11 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using Exile;
-using Exile.PoEMemory.MemoryObjects;
+using ExileCore.;
+using ExileCore.PoEMemory.MemoryObjects;
 using PoEMemory.Components;
-using Shared.Enums;
-using Shared.Helpers;
-using Shared.Interfaces;
+using ExileCore.Shared.Cache;
+using ExileCore.Shared.Enums;
+using ExileCore.Shared.Helpers;
+using ExileCore.Shared.Interfaces;
 using SharpDX;
 
 namespace LegionRewardHelper
