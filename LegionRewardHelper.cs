@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using ExileCore.;
+using ExileCore;
 using ExileCore.PoEMemory.MemoryObjects;
 using PoEMemory.Components;
 using ExileCore.Shared.Cache;
