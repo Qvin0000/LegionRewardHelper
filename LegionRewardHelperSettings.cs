@@ -1,5 +1,5 @@
-using Shared.Interfaces;
-using Shared.Nodes;
+using ExileCore.Shared.Interfaces;
+using ExileCore.Shared.Nodes;
 
 namespace LegionRewardHelper
 {
